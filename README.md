@@ -1,19 +1,19 @@
 # tasks
 
-A new Flutter project.
+A Flutter project to consume a crud api.
 
-## Getting Started
+## Features
+- View task list with completion status
+- Add new tasks
+- Edit existing tasks
+- Delete tasks with swipe gesture
 
-This project is a starting point for a Flutter application.
+## Installation
+1. Ensure Flutter SDK is installed
+2. Clone repository:[ git clone https://github.com/goodlifechris/f](https://github.com/goodlifechris/task-frontend.git)
+3. Install dependecies:  flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ## Display Tasks and updated states
 
@@ -23,6 +23,13 @@ samples, guidance on mobile development, and a full API reference.
 ## Add a simple task 
 
 <img width="586" height="917" alt="Screenshot 2025-07-22 at 5 54 46 PM" src="https://github.com/user-attachments/assets/9696c3aa-94d3-48a7-8edc-cd22ae22604f" />
+
+## Swipe to delete
+
+tap or swipe to delete
+
+<img width="499" height="915" alt="Screenshot 2025-07-22 at 7 53 54 PM" src="https://github.com/user-attachments/assets/f69e19c3-b41e-41ba-ad8f-cb44415bef75" />
+
 
 ## Dependencies
 
