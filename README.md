@@ -23,3 +23,13 @@ samples, guidance on mobile development, and a full API reference.
 ## Add a simple task 
 
 <img width="586" height="917" alt="Screenshot 2025-07-22 at 5 54 46 PM" src="https://github.com/user-attachments/assets/9696c3aa-94d3-48a7-8edc-cd22ae22604f" />
+
+## Dependencies
+
+http: ^0.13.5
+
+provider: ^6.0.5
+
+intl: ^0.18.1
+
+flutter_slidable: ^3.0.0
